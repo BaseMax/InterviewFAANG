@@ -4,7 +4,8 @@ I took a Job offer from FB a few days ago to work as a Technical Lead, Senior So
 So I try to solve some Facebook interview and this was really cool for me.
 
 ## Solving Facebook interview questions
-### Pretty Json
+
+## Pretty Json
 
 > Asked in: Facebook, Microsoft
 
@@ -69,7 +70,7 @@ Output 2:
 
 ---------
 
-### Integer To Roman
+## Integer To Roman
 
 > Asked in: Amazon, Facebook, Microsoft, Twitter
 
@@ -112,7 +113,7 @@ Output 2:
 
 ------
 
-# Roman To Integer
+## Roman To Integer
 
 > Asked in: Amazon, Facebook, Microsoft, Twitter
 
@@ -147,7 +148,7 @@ Output 2:
 
 ----
 
-### Add Two Numbers as Lists
+## Add Two Numbers as Lists
 
 > Asked in: Amazon, Qualcomm, Microsoft, Facebook
 
