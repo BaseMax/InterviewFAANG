@@ -4,6 +4,8 @@ I took a Job offer from [Google](https://www.google.com/) 1 years ago, Currently
 
 So I try to solve some Facebook interview and this was really cool for me.
 
+I will add more tasks soon one by one, So it's a source for watching popular questions...
+
 ## Solving Facebook interview questions
 
 <details><summary>
@@ -180,10 +182,6 @@ So, `7 -> 0 -> 8 -> 0` is not a valid response even though the value is still 80
 
 </p>
 </details>
-
-I will add more tasks soon one by one...
-
-So it's a source for watching popular questions...
 
 ----
 
