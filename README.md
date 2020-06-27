@@ -6,7 +6,10 @@ So I try to solve some Facebook interview and this was really cool for me.
 
 ## Solving Facebook interview questions
 
+<details><summary>
 ## Pretty Json
+</summary>
+<p>
 
 > Asked in: Facebook, Microsoft
 
@@ -67,11 +70,14 @@ Output 2:
         }
     ]
 ```
-
+</p>
 
 ---------
 
+<details><summary>
 ## Integer To Roman
+</summary>
+<p>
 
 > Asked in: Amazon, Facebook, Microsoft, Twitter
 
@@ -112,9 +118,14 @@ Output 2:
     "XIV"
 ```
 
+</p>
+
 ------
 
+<details><summary>
 ## Roman To Integer
+</summary>
+<p>
 
 > Asked in: Amazon, Facebook, Microsoft, Twitter
 
@@ -147,9 +158,14 @@ Output 2:
     20
 ```
 
+</p>
+
 ----
 
+<details><summary>
 ## Add Two Numbers as Lists
+</summary>
+<p>
 
 > Asked in: Amazon, Qualcomm, Microsoft, Facebook
 
@@ -162,6 +178,8 @@ You are given two linked lists representing two non-negative numbers. The digits
 
 Make sure there are no trailing zeros in the output list
 So, `7 -> 0 -> 8 -> 0` is not a valid response even though the value is still 807.
+
+</p>
 
 ----
 
