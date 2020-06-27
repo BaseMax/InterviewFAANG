@@ -5,12 +5,13 @@ class Solution:
 	# @return a strings
 	def solve(self, A):
 		words=A.split(" ")
-		print(words)
+		# print(words)
 		words=reversed(words)
 		result=""
 		for word in words:
 			# print(word)
-			result+=word+" "
+			if word != "":
+				result+=word+" "
 		result=result.strip()
 		# if result[-1] == " ":
 		# 	result=result[0:-1]
