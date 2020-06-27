@@ -1,37 +1,33 @@
 # Max Base
 # https://github.com/BaseMax/FAANGInterview
-class Solution:
-  # @param A : string
-  # @return a list of strings
-  def prettyJSON(self, A):
-    indent = 0
-    res = []
-    line = ''
-    for x in A:
-      if x in '{[':
-        if line:
-          res.append(line)
-        res.append('\t' * indent + x)
-        line = ''
-        indent += 1
-      elif x in ']}':
-        if line:
-          res.append(line)
-        indent -= 1
-        line = '\t' * indent + x  # Might be followed by ','
-      else:
-        if not line:
-          line = '\t' * indent
-        line += x
-        if x == ",":
-          res.append(line)
-          line = ''
-    if line:
-      res.append(line)
-    return res
-
-s=Solution()
-# print( s.prettyJSON('{A:"B۱",C:{D:"E",F:{G:"H",I:"J"}}}') )
-# print( s.prettyJSON('["foo",5,{"bar":["baz",null,1.0,2]}]') )
-print( s.prettyJSON('["foo",5,["bar",1,2]]') )
-# print( s.prettyJSON('[123,456]') )
+# numbers={
+#   "1000":"M",
+#   "500":"D",
+#   "100":"C",
+#   "50":"L",
+#   "10":"X",
+#   "5":"V",
+#   "1":"I",
+# }
+numbers = [1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000] 
+symbols = ["I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M"] 
+def parse(num):
+  result=""
+  num=int(num)
+  i=len(numbers)-1
+  while i>=0:
+    divide=num // numbers[i]
+    if divide > 0:
+      num=num % numbers[i]
+      result+=divide * symbols[i]
+    i-=1
+  return result
+print(parse(1))
+print(parse(5))
+print(parse(6))
+print(parse(7))
+print(parse(9))
+print(parse(10))
+print(parse(11))
+print(parse(58))
+print(parse(1994))
