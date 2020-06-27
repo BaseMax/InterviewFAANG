@@ -181,6 +181,10 @@ So, `7 -> 0 -> 8 -> 0` is not a valid response even though the value is still 80
 </p>
 </details>
 
+I will add more tasks soon one by one...
+
+So it's a source for watching popular questions...
+
 ----
 
 # Max Base
