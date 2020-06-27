@@ -1,6 +1,6 @@
 # FAANG Interview
 
-I took a Job offer from [Google](https://www.google.com/) 1 years ago, Currently took a Job offer from [FB](https://www.fb.com/) a few days ago to work as a **Technical Lead, Senior Software engineer**.
+I took a Job offer from [Google](https://www.google.com/) 1 years ago, and took another Job offer from [FB](https://www.fb.com/) a few days ago to work as a **Technical Lead, Senior Software engineer**.
 
 So I try to solve some Facebook interview and this was really cool for me.
 
