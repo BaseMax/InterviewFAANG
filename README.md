@@ -70,7 +70,9 @@ Output 2:
         }
     ]
 ```
+
 </p>
+</details>
 
 ---------
 
@@ -119,6 +121,7 @@ Output 2:
 ```
 
 </p>
+</details>
 
 ------
 
@@ -159,6 +162,7 @@ Output 2:
 ```
 
 </p>
+</details>
 
 ----
 
@@ -180,6 +184,7 @@ Make sure there are no trailing zeros in the output list
 So, `7 -> 0 -> 8 -> 0` is not a valid response even though the value is still 807.
 
 </p>
+</details>
 
 ----
 
