@@ -5,13 +5,13 @@ class Solution:
     # @return A after the sort
     # Bad performance:
     # def sortColors(self, A):
-    #     swapped = True
-    #     while swapped:
-    #         swapped = False
+    #     swap = True
+    #     while swap:
+    #         swap = False
     #         for i in range(len(A) - 1):
     #             if A[i] > A[i + 1]:
     #                 A[i], A[i + 1] = A[i + 1], A[i]
-    #                 swapped = True
+    #                 swap = True
     #     return A
     def sortColors(self, A):
         result1=[]
