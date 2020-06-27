@@ -7,7 +7,7 @@ So I try to solve some Facebook interview and this was really cool for me.
 ## Solving Facebook interview questions
 
 <details><summary>
-## Pretty Json
+Pretty Json
 </summary>
 <p>
 
@@ -74,10 +74,8 @@ Output 2:
 </p>
 </details>
 
----------
-
 <details><summary>
-## Integer To Roman
+Integer To Roman
 </summary>
 <p>
 
@@ -123,10 +121,9 @@ Output 2:
 </p>
 </details>
 
-------
 
 <details><summary>
-## Roman To Integer
+Roman To Integer
 </summary>
 <p>
 
@@ -164,10 +161,8 @@ Output 2:
 </p>
 </details>
 
-----
-
 <details><summary>
-## Add Two Numbers as Lists
+Add Two Numbers as Lists
 </summary>
 <p>
 
