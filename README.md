@@ -239,6 +239,27 @@ Explanation: For n = 3 the term was "21" in which we have two groups "2" and "1"
 </p>
 </details>
 
+
+<details><summary>
+Add Binary Strings
+</summary>
+<p>
+
+> Asked in: Facebook, Microsoft
+
+Given two binary strings, return their sum (also a binary string).
+
+##### Example:
+
+```
+a = "100"
+b = "11"
+Return a + b = “111”.
+```
+
+</p>
+</details>
+
 ----
 
 # Max Base
