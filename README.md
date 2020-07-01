@@ -389,6 +389,27 @@ Buy the stock on day 0, and sell it on day 2.
 </details>
 
 
+
+<details><summary>
+Implement StrStr
+</summary>
+<p>
+
+Asked in: Facebook, Amazon, Qualcomm, Wipro, Microsoft
+
+> Please Note: Another question which belongs to the category of questions which are intentionally stated vaguely.
+Expectation is that you will ask for correct clarification or you will state your assumptions before you start coding.
+
+**Implement strStr():** strstr - locate a substring ( needle ) in a string ( haystack ).
+
+Try not to use standard library string functions for this question.
+
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+</p>
+</details>
+
+
 ----
 
 # Max Base
